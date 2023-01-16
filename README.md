@@ -1,4 +1,4 @@
-# Web3-PVP Winner Takes Crypto
+# Web3 PVP Winner Takes Crypto
 
 PVP, stands for player versus player.
 
