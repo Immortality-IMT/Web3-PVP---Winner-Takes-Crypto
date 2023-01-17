@@ -1,6 +1,6 @@
-# Web3 PVP Winner Takes Crypto
+# Web3 PvP Winner Takes Crypto
 
-PVP, stands for player versus player.
+PvP, stands for player versus player.
 
 An Eth contract where two parties enter into a contract, they both put some amount of crypto in to play and depending on the outcome of the game, 
 the winner takes all the crypto.
