@@ -59,3 +59,8 @@ Potential Games To Develop
 - https://github.com/jkneb/street-fighter-css
 - https://github.com/simonsablowski/beatemup
 - https://github.com/carabus/battleship-online
+
+How The Game Lobby Might Work?
+------------------------------
+
+Online multiplayer lobby maintains a list of all users who are currently online and available to play. They must register. When a user starts a new game, the system generates a unique link to the game room that can be shared with other online players. Other players can then accept the invitation to join the game, and the game room is locked to prevent any additional players from joining the game, the smart contract is executed and the ante is taken from accounts and locked. The game is then initiated and the players can begin playing together. The winner of the game is known and the smart contract winner function executed. The users are returned to the lobby to try again.
