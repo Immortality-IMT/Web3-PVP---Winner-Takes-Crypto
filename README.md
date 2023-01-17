@@ -52,3 +52,8 @@ contract.methods.play(player1Move, player2Move).send({
 The code sends a transaction to the Ethereum network to call the play() function on the contract, with the player addresses and bet amount provided as input. The transaction is sent from player1Address, and the value field indicates the amount of ETH to send along with the transaction.
 
 Call claimWinnings() function in a similar way, by replacing play() with claimWinnings() and providing the winner's address as the from field.
+
+Potential Games To Develop
+--------------------------
+
+- https://github.com/jkneb/street-fighter-css.git
