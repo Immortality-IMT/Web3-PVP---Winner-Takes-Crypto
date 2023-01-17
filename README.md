@@ -56,6 +56,6 @@ Call claimWinnings() function in a similar way, by replacing play() with claimWi
 Potential Games To Develop
 --------------------------
 
-- https://github.com/jkneb/street-fighter-css.git
+- https://github.com/jkneb/street-fighter-css
 - https://github.com/simonsablowski/beatemup
 - https://github.com/carabus/battleship-online
