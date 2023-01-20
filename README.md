@@ -59,6 +59,7 @@ Potential Games To Develop
 - https://github.com/jkneb/street-fighter-css
 - https://github.com/simonsablowski/beatemup
 - https://github.com/carabus/battleship-online
+- https://github.com/shaan1337/quiz
 
 How The Game Lobby Might Work?
 ------------------------------
