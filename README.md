@@ -58,6 +58,7 @@ Potential Games To Develop
 
 - https://github.com/jkneb/street-fighter-css
 - https://github.com/simonsablowski/beatemup
+- https://github.com/njbittner/battle-bros-pyarcade
 - https://github.com/carabus/battleship-online
 - https://github.com/shaan1337/quiz
 
